@@ -114,7 +114,7 @@ spec:
         - path: /
           backend:
             serviceName: whoami5
-            servicePort: 80 # Porta que sera usada pelo SERVICE - DEVE SER A MESMA do SERVICE
+            servicePort: 80 #### Porta que sera usada pelo SERVICE - DEVE SER A MESMA do SERVICE
 
 
 
